@@ -1,0 +1,589 @@
+logI,ID,id,Recorder,Group,EyePosition,Response
+2.4,jjb03,v_a1,JJB,atoke,posterior,0.887096774
+1.7,jjb03,v_a1,JJB,atoke,posterior,0.919354839
+1.4,jjb03,v_a1,JJB,atoke,posterior,1
+0.7,jjb03,v_a1,JJB,atoke,posterior,0.790322581
+0.4,jjb03,v_a1,JJB,atoke,posterior,0.919354839
+-0.3,jjb03,v_a1,JJB,atoke,posterior,0.193548387
+-0.6,jjb03,v_a1,JJB,atoke,posterior,0.137096774
+-1.3,jjb03,v_a1,JJB,atoke,posterior,0.096774194
+-1.6,jjb03,v_a1,JJB,atoke,posterior,0
+-2.3,jjb03,v_a1,JJB,atoke,posterior,0
+-2.6,jjb03,v_a1,JJB,atoke,posterior,0
+-3.3,jjb03,v_a1,JJB,atoke,posterior,0
+-3.6,jjb03,v_a1,JJB,atoke,posterior,0
+-4.3,jjb03,v_a1,JJB,atoke,posterior,0
+2.4,jjb 05,v_a2,JJB,atoke,posterior,0.910447761
+1.7,jjb 05,v_a2,JJB,atoke,posterior,0.985074627
+1.4,jjb 05,v_a2,JJB,atoke,posterior,1
+0.7,jjb 05,v_a2,JJB,atoke,posterior,0.970149254
+0.4,jjb 05,v_a2,JJB,atoke,posterior,0.910447761
+-0.3,jjb 05,v_a2,JJB,atoke,posterior,0.731343284
+-0.6,jjb 05,v_a2,JJB,atoke,posterior,0.537313433
+-1.3,jjb 05,v_a2,JJB,atoke,posterior,0.298507463
+-1.6,jjb 05,v_a2,JJB,atoke,posterior,0.23880597
+-2.3,jjb 05,v_a2,JJB,atoke,posterior,0.082089552
+-2.6,jjb 05,v_a2,JJB,atoke,posterior,0.037313433
+-3.3,jjb 05,v_a2,JJB,atoke,posterior,0
+-3.6,jjb 05,v_a2,JJB,atoke,posterior,0
+-4.3,jjb 05,v_a2,JJB,atoke,posterior,0
+2.4,jjb 07,v_a3,JJB,atoke,posterior,1
+1.7,jjb 07,v_a3,JJB,atoke,posterior,0.911764706
+1.4,jjb 07,v_a3,JJB,atoke,posterior,0.838235294
+0.7,jjb 07,v_a3,JJB,atoke,posterior,0.617647059
+0.4,jjb 07,v_a3,JJB,atoke,posterior,0.558823529
+-0.3,jjb 07,v_a3,JJB,atoke,posterior,0.382352941
+-0.6,jjb 07,v_a3,JJB,atoke,posterior,0.235294118
+-1.3,jjb 07,v_a3,JJB,atoke,posterior,0.176470588
+-1.6,jjb 07,v_a3,JJB,atoke,posterior,0.161764706
+-2.3,jjb 07,v_a3,JJB,atoke,posterior,0.058823529
+-2.6,jjb 07,v_a3,JJB,atoke,posterior,0
+-3.3,jjb 07,v_a3,JJB,atoke,posterior,0
+-3.6,jjb 07,v_a3,JJB,atoke,posterior,0
+-4.3,jjb 07,v_a3,JJB,atoke,posterior,0
+2.4,jjb 08,v_a4,JJB,atoke,posterior,0.575471698
+1.7,jjb 08,v_a4,JJB,atoke,posterior,0.679245283
+1.4,jjb 08,v_a4,JJB,atoke,posterior,0.773584906
+0.7,jjb 08,v_a4,JJB,atoke,posterior,0.905660377
+0.4,jjb 08,v_a4,JJB,atoke,posterior,1
+-0.3,jjb 08,v_a4,JJB,atoke,posterior,0.811320755
+-0.6,jjb 08,v_a4,JJB,atoke,posterior,0.537735849
+-1.3,jjb 08,v_a4,JJB,atoke,posterior,0.283018868
+-1.6,jjb 08,v_a4,JJB,atoke,posterior,0.245283019
+-2.3,jjb 08,v_a4,JJB,atoke,posterior,0.245283019
+-2.6,jjb 08,v_a4,JJB,atoke,posterior,0.056603774
+-3.3,jjb 08,v_a4,JJB,atoke,posterior,0
+-3.6,jjb 08,v_a4,JJB,atoke,posterior,0
+-4.3,jjb 08,v_a4,JJB,atoke,posterior,0
+2.4,jjb 09,v_a5,JJB,atoke,posterior,0.76056338
+1.7,jjb 09,v_a5,JJB,atoke,posterior,0.845070423
+1.4,jjb 09,v_a5,JJB,atoke,posterior,0.901408451
+0.7,jjb 09,v_a5,JJB,atoke,posterior,0.943661972
+0.4,jjb 09,v_a5,JJB,atoke,posterior,1
+-0.3,jjb 09,v_a5,JJB,atoke,posterior,0.85915493
+-0.6,jjb 09,v_a5,JJB,atoke,posterior,0.676056338
+-1.3,jjb 09,v_a5,JJB,atoke,posterior,0.352112676
+-1.6,jjb 09,v_a5,JJB,atoke,posterior,0.288732394
+-2.3,jjb 09,v_a5,JJB,atoke,posterior,0.112676056
+-2.6,jjb 09,v_a5,JJB,atoke,posterior,0
+-3.3,jjb 09,v_a5,JJB,atoke,posterior,0
+-3.6,jjb 09,v_a5,JJB,atoke,posterior,0
+-4.3,jjb 09,v_a5,JJB,atoke,posterior,0
+2.4,jjb 10,v_a6,JJB,atoke,posterior,1
+1.7,jjb 10,v_a6,JJB,atoke,posterior,0.961538462
+1.4,jjb 10,v_a6,JJB,atoke,posterior,0.942307692
+0.7,jjb 10,v_a6,JJB,atoke,posterior,0.730769231
+0.4,jjb 10,v_a6,JJB,atoke,posterior,0.5
+-0.3,jjb 10,v_a6,JJB,atoke,posterior,0.221153846
+-0.6,jjb 10,v_a6,JJB,atoke,posterior,0.173076923
+-1.3,jjb 10,v_a6,JJB,atoke,posterior,0.105769231
+-1.6,jjb 10,v_a6,JJB,atoke,posterior,0.076923077
+-2.3,jjb 10,v_a6,JJB,atoke,posterior,0
+-2.6,jjb 10,v_a6,JJB,atoke,posterior,0
+-3.3,jjb 10,v_a6,JJB,atoke,posterior,0
+-3.6,jjb 10,v_a6,JJB,atoke,posterior,0
+-4.3,jjb 10,v_a6,JJB,atoke,posterior,0
+2.4,ag 01,v_a7,AG,atoke,posterior,1
+1.7,ag 01,v_a7,AG,atoke,posterior,1
+1.4,ag 01,v_a7,AG,atoke,posterior,0.976744186
+0.7,ag 01,v_a7,AG,atoke,posterior,0.651162791
+0.4,ag 01,v_a7,AG,atoke,posterior,0.395348837
+-0.3,ag 01,v_a7,AG,atoke,posterior,0.209302326
+-0.6,ag 01,v_a7,AG,atoke,posterior,0.162790698
+-1.3,ag 01,v_a7,AG,atoke,posterior,0.139534884
+-1.6,ag 01,v_a7,AG,atoke,posterior,0.104651163
+-2.3,ag 01,v_a7,AG,atoke,posterior,0.058139535
+-2.6,ag 01,v_a7,AG,atoke,posterior,0.034883721
+-3.3,ag 01,v_a7,AG,atoke,posterior,0
+-3.6,ag 01,v_a7,AG,atoke,posterior,0
+-4.3,ag 01,v_a7,AG,atoke,posterior,0
+2.4,JK 4,v_a8,JK,atoke,posterior,0.842857143
+1.7,JK 4,v_a8,JK,atoke,posterior,0.892857143
+1.4,JK 4,v_a8,JK,atoke,posterior,0.892857143
+0.7,JK 4,v_a8,JK,atoke,posterior,0.964285714
+0.4,JK 4,v_a8,JK,atoke,posterior,1
+-0.3,JK 4,v_a8,JK,atoke,posterior,0.914285714
+-0.6,JK 4,v_a8,JK,atoke,posterior,0.75
+-1.3,JK 4,v_a8,JK,atoke,posterior,0.414285714
+-1.6,JK 4,v_a8,JK,atoke,posterior,0.364285714
+-2.3,JK 4,v_a8,JK,atoke,posterior,0.157142857
+-2.6,JK 4,v_a8,JK,atoke,posterior,0.078571429
+-3.3,JK 4,v_a8,JK,atoke,posterior,0.05
+-3.6,JK 4,v_a8,JK,atoke,posterior,0.021428571
+-4.3,JK 4,v_a8,JK,atoke,posterior,0
+2.4,jk5,v_a8,JK,atoke,posterior,0.86407767
+1.7,jk5,v_a8,JK,atoke,posterior,0.941747573
+1.4,jk5,v_a8,JK,atoke,posterior,1
+0.7,jk5,v_a8,JK,atoke,posterior,0.990291262
+0.4,jk5,v_a8,JK,atoke,posterior,0.941747573
+-0.3,jk5,v_a8,JK,atoke,posterior,0.805825243
+-0.6,jk5,v_a8,JK,atoke,posterior,0.601941748
+-1.3,jk5,v_a8,JK,atoke,posterior,0.252427184
+-1.6,jk5,v_a8,JK,atoke,posterior,0.233009709
+-2.3,jk5,v_a8,JK,atoke,posterior,0.087378641
+-2.6,jk5,v_a8,JK,atoke,posterior,0.029126214
+-3.3,jk5,v_a8,JK,atoke,posterior,0.009708738
+-3.6,jk5,v_a8,JK,atoke,posterior,0
+-4.3,jk5,v_a8,JK,atoke,posterior,0
+2.4,jk3,v_a9,JK,atoke,posterior,0.733333333
+1.7,jk3,v_a9,JK,atoke,posterior,0.822222222
+1.4,jk3,v_a9,JK,atoke,posterior,0.888888889
+0.7,jk3,v_a9,JK,atoke,posterior,0.955555556
+0.4,jk3,v_a9,JK,atoke,posterior,1
+-0.3,jk3,v_a9,JK,atoke,posterior,0.9
+-0.6,jk3,v_a9,JK,atoke,posterior,0.677777778
+-1.3,jk3,v_a9,JK,atoke,posterior,0.311111111
+-1.6,jk3,v_a9,JK,atoke,posterior,0.244444444
+-2.3,jk3,v_a9,JK,atoke,posterior,0.1
+-2.6,jk3,v_a9,JK,atoke,posterior,0.044444444
+-3.3,jk3,v_a9,JK,atoke,posterior,0.011111111
+-3.6,jk3,v_a9,JK,atoke,posterior,0
+-4.3,jk3,v_a9,JK,atoke,posterior,0
+2.4,danka 01,v_a10,DANKA,atoke,posterior,1
+1.7,danka 01,v_a10,DANKA,atoke,posterior,1
+1.4,danka 01,v_a10,DANKA,atoke,posterior,0.954545455
+0.7,danka 01,v_a10,DANKA,atoke,posterior,0.659090909
+0.4,danka 01,v_a10,DANKA,atoke,posterior,0.386363636
+-0.3,danka 01,v_a10,DANKA,atoke,posterior,0.204545455
+-0.6,danka 01,v_a10,DANKA,atoke,posterior,0.136363636
+-1.3,danka 01,v_a10,DANKA,atoke,posterior,0.113636364
+-1.6,danka 01,v_a10,DANKA,atoke,posterior,0.068181818
+-2.3,danka 01,v_a10,DANKA,atoke,posterior,0.045454545
+-2.6,danka 01,v_a10,DANKA,atoke,posterior,0.022727273
+-3.3,danka 01,v_a10,DANKA,atoke,posterior,0
+-3.6,danka 01,v_a10,DANKA,atoke,posterior,0
+-4.3,danka 01,v_a10,DANKA,atoke,posterior,0
+2.4,jjb01,v_a11,JJB,atoke,anterior,0.739130435
+1.7,jjb01,v_a11,JJB,atoke,anterior,0.760869565
+1.4,jjb01,v_a11,JJB,atoke,anterior,0.75
+0.7,jjb01,v_a11,JJB,atoke,anterior,0.804347826
+0.4,jjb01,v_a11,JJB,atoke,anterior,0.891304348
+-0.3,jjb01,v_a11,JJB,atoke,anterior,1
+-0.6,jjb01,v_a11,JJB,atoke,anterior,1
+-1.3,jjb01,v_a11,JJB,atoke,anterior,0.97826087
+-1.6,jjb01,v_a11,JJB,atoke,anterior,0.97826087
+-2.3,jjb01,v_a11,JJB,atoke,anterior,0.739130435
+-2.6,jjb01,v_a11,JJB,atoke,anterior,0.434782609
+-3.3,jjb01,v_a11,JJB,atoke,anterior,0.163043478
+-3.6,jjb01,v_a11,JJB,atoke,anterior,0.173913043
+-4.3,jjb01,v_a11,JJB,atoke,anterior,0.108695652
+-4.6,jjb01,v_a11,JJB,atoke,anterior,0.043478261
+-5.3,jjb01,v_a11,JJB,atoke,anterior,0
+2.4,jjb02,v_a12,JJB,atoke,anterior,0.957894737
+1.7,jjb02,v_a12,JJB,atoke,anterior,0.947368421
+1.4,jjb02,v_a12,JJB,atoke,anterior,1
+0.7,jjb02,v_a12,JJB,atoke,anterior,0.926315789
+0.4,jjb02,v_a12,JJB,atoke,anterior,0.757894737
+-0.3,jjb02,v_a12,JJB,atoke,anterior,0.410526316
+-0.6,jjb02,v_a12,JJB,atoke,anterior,0.215789474
+-1.3,jjb02,v_a12,JJB,atoke,anterior,0.1
+-1.6,jjb02,v_a12,JJB,atoke,anterior,0.068421053
+-2.3,jjb02,v_a12,JJB,atoke,anterior,0
+-2.6,jjb02,v_a12,JJB,atoke,anterior,0
+-3.3,jjb02,v_a12,JJB,atoke,anterior,0
+-3.6,jjb02,v_a12,JJB,atoke,anterior,0
+-4.3,jjb02,v_a12,JJB,atoke,anterior,0
+-4.6,jjb02,v_a12,JJB,atoke,anterior,0
+-5.3,jjb02,v_a12,JJB,atoke,anterior,0
+2.4,jjb 04,v_a13,JJB,atoke,anterior,1
+1.7,jjb 04,v_a13,JJB,atoke,anterior,0.884615385
+1.4,jjb 04,v_a13,JJB,atoke,anterior,0.884615385
+0.7,jjb 04,v_a13,JJB,atoke,anterior,0.692307692
+0.4,jjb 04,v_a13,JJB,atoke,anterior,0.211538462
+-0.3,jjb 04,v_a13,JJB,atoke,anterior,0.192307692
+-0.6,jjb 04,v_a13,JJB,atoke,anterior,0.134615385
+-1.3,jjb 04,v_a13,JJB,atoke,anterior,0.307692308
+-1.6,jjb 04,v_a13,JJB,atoke,anterior,0.076923077
+-2.3,jjb 04,v_a13,JJB,atoke,anterior,0
+-2.6,jjb 04,v_a13,JJB,atoke,anterior,0
+-3.3,jjb 04,v_a13,JJB,atoke,anterior,0
+-3.6,jjb 04,v_a13,JJB,atoke,anterior,0
+-4.3,jjb 04,v_a13,JJB,atoke,anterior,0
+-4.6,jjb 04,v_a13,JJB,atoke,anterior,0
+-5.3,jjb 04,v_a13,JJB,atoke,anterior,0
+2.4,jjb06,v_a14,JJB,atoke,anterior,0.691489362
+1.7,jjb06,v_a14,JJB,atoke,anterior,0.765957447
+1.4,jjb06,v_a14,JJB,atoke,anterior,1
+0.7,jjb06,v_a14,JJB,atoke,anterior,0.856382979
+0.4,jjb06,v_a14,JJB,atoke,anterior,0.515957447
+-0.3,jjb06,v_a14,JJB,atoke,anterior,0.074468085
+-0.6,jjb06,v_a14,JJB,atoke,anterior,0
+-1.3,jjb06,v_a14,JJB,atoke,anterior,0
+-1.6,jjb06,v_a14,JJB,atoke,anterior,0
+-2.3,jjb06,v_a14,JJB,atoke,anterior,0
+-2.6,jjb06,v_a14,JJB,atoke,anterior,0
+-3.3,jjb06,v_a14,JJB,atoke,anterior,0
+-3.6,jjb06,v_a14,JJB,atoke,anterior,0
+-4.3,jjb06,v_a14,JJB,atoke,anterior,0
+-4.6,jjb06,v_a14,JJB,atoke,anterior,0
+-5.3,jjb06,v_a14,JJB,atoke,anterior,0
+2.4,ag 01,v_a15,AG,atoke,anterior,0.954545455
+1.7,ag 01,v_a15,AG,atoke,anterior,0.965909091
+1.4,ag 01,v_a15,AG,atoke,anterior,1
+0.7,ag 01,v_a15,AG,atoke,anterior,0.943181818
+0.4,ag 01,v_a15,AG,atoke,anterior,0.904545455
+-0.3,ag 01,v_a15,AG,atoke,anterior,0.727272727
+-0.6,ag 01,v_a15,AG,atoke,anterior,0.568181818
+-1.3,ag 01,v_a15,AG,atoke,anterior,0.227272727
+-1.6,ag 01,v_a15,AG,atoke,anterior,0.181818182
+-2.3,ag 01,v_a15,AG,atoke,anterior,0.045454545
+-2.6,ag 01,v_a15,AG,atoke,anterior,0.022727273
+-3.3,ag 01,v_a15,AG,atoke,anterior,0.022727273
+-3.6,ag 01,v_a15,AG,atoke,anterior,0
+-4.3,ag 01,v_a15,AG,atoke,anterior,0
+-4.6,ag 01,v_a15,AG,atoke,anterior,0
+-5.3,ag 01,v_a15,AG,atoke,anterior,0
+2.4,jjb 09,v_a16,JJB,atoke,anterior,0.695652174
+1.7,jjb 09,v_a16,JJB,atoke,anterior,0.913043478
+1.4,jjb 09,v_a16,JJB,atoke,anterior,0.956521739
+0.7,jjb 09,v_a16,JJB,atoke,anterior,0.956521739
+0.4,jjb 09,v_a16,JJB,atoke,anterior,1
+-0.3,jjb 09,v_a16,JJB,atoke,anterior,1
+-0.6,jjb 09,v_a16,JJB,atoke,anterior,1
+-1.3,jjb 09,v_a16,JJB,atoke,anterior,0.739130435
+-1.6,jjb 09,v_a16,JJB,atoke,anterior,0.608695652
+-2.3,jjb 09,v_a16,JJB,atoke,anterior,0.173913043
+-2.6,jjb 09,v_a16,JJB,atoke,anterior,0
+-3.3,jjb 09,v_a16,JJB,atoke,anterior,0
+-3.6,jjb 09,v_a16,JJB,atoke,anterior,0
+-4.3,jjb 09,v_a16,JJB,atoke,anterior,0
+-4.6,jjb 09,v_a16,JJB,atoke,anterior,0
+-5.3,jjb 09,v_a16,JJB,atoke,anterior,0
+2.4,jjb11,v_a17,JJB,atoke,anterior,0.729166667
+1.7,jjb11,v_a17,JJB,atoke,anterior,0.854166667
+1.4,jjb11,v_a17,JJB,atoke,anterior,0.9375
+0.7,jjb11,v_a17,JJB,atoke,anterior,1
+0.4,jjb11,v_a17,JJB,atoke,anterior,0.916666667
+-0.3,jjb11,v_a17,JJB,atoke,anterior,0.8125
+-0.6,jjb11,v_a17,JJB,atoke,anterior,0.604166667
+-1.3,jjb11,v_a17,JJB,atoke,anterior,0.333333333
+-1.6,jjb11,v_a17,JJB,atoke,anterior,0.25
+-2.3,jjb11,v_a17,JJB,atoke,anterior,0
+-2.6,jjb11,v_a17,JJB,atoke,anterior,0
+-3.3,jjb11,v_a17,JJB,atoke,anterior,0
+-3.6,jjb11,v_a17,JJB,atoke,anterior,0
+-4.3,jjb11,v_a17,JJB,atoke,anterior,0
+-4.6,jjb11,v_a17,JJB,atoke,anterior,0
+-5.3,jjb11,v_a17,JJB,atoke,anterior,0
+2.4,jjb12,v_a18,JJB,atoke,anterior,0.620689655
+1.7,jjb12,v_a18,JJB,atoke,anterior,0.689655172
+1.4,jjb12,v_a18,JJB,atoke,anterior,0.827586207
+0.7,jjb12,v_a18,JJB,atoke,anterior,0.91954023
+0.4,jjb12,v_a18,JJB,atoke,anterior,1
+-0.3,jjb12,v_a18,JJB,atoke,anterior,0.873563218
+-0.6,jjb12,v_a18,JJB,atoke,anterior,0.563218391
+-1.3,jjb12,v_a18,JJB,atoke,anterior,0.218390805
+-1.6,jjb12,v_a18,JJB,atoke,anterior,0.16091954
+-2.3,jjb12,v_a18,JJB,atoke,anterior,0.091954023
+-2.6,jjb12,v_a18,JJB,atoke,anterior,0
+-3.3,jjb12,v_a18,JJB,atoke,anterior,0
+-3.6,jjb12,v_a18,JJB,atoke,anterior,0
+-4.3,jjb12,v_a18,JJB,atoke,anterior,0
+-4.6,jjb12,v_a18,JJB,atoke,anterior,0
+-5.3,jjb12,v_a18,JJB,atoke,anterior,0
+2.4,ag 02,v_a19,AG,atoke,anterior,0.659574468
+1.7,ag 02,v_a19,AG,atoke,anterior,0.744680851
+1.4,ag 02,v_a19,AG,atoke,anterior,0.765957447
+0.7,ag 02,v_a19,AG,atoke,anterior,0.808510638
+0.4,ag 02,v_a19,AG,atoke,anterior,0.936170213
+-0.3,ag 02,v_a19,AG,atoke,anterior,1
+-0.6,ag 02,v_a19,AG,atoke,anterior,0.914893617
+-1.3,ag 02,v_a19,AG,atoke,anterior,0.70212766
+-1.6,ag 02,v_a19,AG,atoke,anterior,0.595744681
+-2.3,ag 02,v_a19,AG,atoke,anterior,0.382978723
+-2.6,ag 02,v_a19,AG,atoke,anterior,0.212765957
+-3.3,ag 02,v_a19,AG,atoke,anterior,0.106382979
+-3.6,ag 02,v_a19,AG,atoke,anterior,0.085106383
+-4.3,ag 02,v_a19,AG,atoke,anterior,0.063829787
+-4.6,ag 02,v_a19,AG,atoke,anterior,0
+-5.3,ag 02,v_a19,AG,atoke,anterior,0
+2.4,jjb 01,v_m1,JJB,male,posterior,0.846153846
+1.7,jjb 01,v_m1,JJB,male,posterior,0.961538462
+1.4,jjb 01,v_m1,JJB,male,posterior,1
+0.7,jjb 01,v_m1,JJB,male,posterior,0.984615385
+0.4,jjb 01,v_m1,JJB,male,posterior,0.969230769
+-0.3,jjb 01,v_m1,JJB,male,posterior,0.846153846
+-0.6,jjb 01,v_m1,JJB,male,posterior,0.638461538
+-1.3,jjb 01,v_m1,JJB,male,posterior,0.315384615
+-1.6,jjb 01,v_m1,JJB,male,posterior,0.192307692
+-2.3,jjb 01,v_m1,JJB,male,posterior,0.030769231
+-2.6,jjb 01,v_m1,JJB,male,posterior,0.023076923
+-3.3,jjb 01,v_m1,JJB,male,posterior,0.030769231
+-3.6,jjb 01,v_m1,JJB,male,posterior,0
+-4.3,jjb 01,v_m1,JJB,male,posterior,0
+2.4,jjb 02,v_m2,JJB,male,posterior,0.805194805
+1.7,jjb 02,v_m2,JJB,male,posterior,1
+1.4,jjb 02,v_m2,JJB,male,posterior,0.935064935
+0.7,jjb 02,v_m2,JJB,male,posterior,0.831168831
+0.4,jjb 02,v_m2,JJB,male,posterior,0.896103896
+-0.3,jjb 02,v_m2,JJB,male,posterior,0.714285714
+-0.6,jjb 02,v_m2,JJB,male,posterior,0.480519481
+-1.3,jjb 02,v_m2,JJB,male,posterior,0.12987013
+-1.6,jjb 02,v_m2,JJB,male,posterior,0.090909091
+-2.3,jjb 02,v_m2,JJB,male,posterior,0
+-2.6,jjb 02,v_m2,JJB,male,posterior,0
+-3.3,jjb 02,v_m2,JJB,male,posterior,0
+-3.6,jjb 02,v_m2,JJB,male,posterior,0
+-4.3,jjb 02,v_m2,JJB,male,posterior,0
+2.4,jjb 03,v_m3,JJB,male,posterior,1
+1.7,jjb 03,v_m3,JJB,male,posterior,0.966666667
+1.4,jjb 03,v_m3,JJB,male,posterior,0.933333333
+0.7,jjb 03,v_m3,JJB,male,posterior,0.886666667
+0.4,jjb 03,v_m3,JJB,male,posterior,0.866666667
+-0.3,jjb 03,v_m3,JJB,male,posterior,0.766666667
+-0.6,jjb 03,v_m3,JJB,male,posterior,0.73
+-1.3,jjb 03,v_m3,JJB,male,posterior,0.8
+-1.6,jjb 03,v_m3,JJB,male,posterior,0.466666667
+-2.3,jjb 03,v_m3,JJB,male,posterior,0.153333333
+-2.6,jjb 03,v_m3,JJB,male,posterior,0.053333333
+-3.3,jjb 03,v_m3,JJB,male,posterior,0.02
+-3.6,jjb 03,v_m3,JJB,male,posterior,0
+-4.3,jjb 03,v_m3,JJB,male,posterior,0
+2.4,jjb 06,v_m4,JJB,male,posterior,0.68627451
+1.7,jjb 06,v_m4,JJB,male,posterior,0.784313725
+1.4,jjb 06,v_m4,JJB,male,posterior,0.843137255
+0.7,jjb 06,v_m4,JJB,male,posterior,0.980392157
+0.4,jjb 06,v_m4,JJB,male,posterior,1
+-0.3,jjb 06,v_m4,JJB,male,posterior,0.941176471
+-0.6,jjb 06,v_m4,JJB,male,posterior,0.705882353
+-1.3,jjb 06,v_m4,JJB,male,posterior,0.235294118
+-1.6,jjb 06,v_m4,JJB,male,posterior,0.196078431
+-2.3,jjb 06,v_m4,JJB,male,posterior,0.098039216
+-2.6,jjb 06,v_m4,JJB,male,posterior,0.039215686
+-3.3,jjb 06,v_m4,JJB,male,posterior,0
+-3.6,jjb 06,v_m4,JJB,male,posterior,0
+-4.3,jjb 06,v_m4,JJB,male,posterior,0
+2.4,jjb 06,v_m4,JJB,male,posterior,0.88
+1.7,jjb 06,v_m4,JJB,male,posterior,0.933333333
+1.4,jjb 06,v_m4,JJB,male,posterior,1
+0.7,jjb 06,v_m4,JJB,male,posterior,0.853333333
+0.4,jjb 06,v_m4,JJB,male,posterior,0.333333333
+-0.3,jjb 06,v_m4,JJB,male,posterior,0.053333333
+-0.6,jjb 06,v_m4,JJB,male,posterior,0
+-1.3,jjb 06,v_m4,JJB,male,posterior,0
+-1.6,jjb 06,v_m4,JJB,male,posterior,0
+-2.3,jjb 06,v_m4,JJB,male,posterior,0
+-2.6,jjb 06,v_m4,JJB,male,posterior,0
+-3.3,jjb 06,v_m4,JJB,male,posterior,0
+-3.6,jjb 06,v_m4,JJB,male,posterior,0
+-4.3,jjb 06,v_m4,JJB,male,posterior,0
+2.4,jjb 03,v_m5,JJB,male,anterior,0.875
+1.7,jjb 03,v_m5,JJB,male,anterior,0.958333333
+1.4,jjb 03,v_m5,JJB,male,anterior,1
+0.7,jjb 03,v_m5,JJB,male,anterior,0.916666667
+0.4,jjb 03,v_m5,JJB,male,anterior,0.891666667
+-0.3,jjb 03,v_m5,JJB,male,anterior,0.833333333
+-0.6,jjb 03,v_m5,JJB,male,anterior,0.75
+-1.3,jjb 03,v_m5,JJB,male,anterior,0.541666667
+-1.6,jjb 03,v_m5,JJB,male,anterior,0.416666667
+-2.3,jjb 03,v_m5,JJB,male,anterior,0.141666667
+-2.6,jjb 03,v_m5,JJB,male,anterior,0.05
+-3.3,jjb 03,v_m5,JJB,male,anterior,0.016666667
+-3.6,jjb 03,v_m5,JJB,male,anterior,0
+-4.3,jjb 03,v_m5,JJB,male,anterior,0
+-4.6,jjb 03,v_m5,JJB,male,anterior,0
+2.4,jjb04,v_m6,JJB,male,anterior,1
+1.7,jjb04,v_m6,JJB,male,anterior,0.971428571
+1.4,jjb04,v_m6,JJB,male,anterior,0.904761905
+0.7,jjb04,v_m6,JJB,male,anterior,0.819047619
+0.4,jjb04,v_m6,JJB,male,anterior,0.714285714
+-0.3,jjb04,v_m6,JJB,male,anterior,0.571428571
+-0.6,jjb04,v_m6,JJB,male,anterior,0.457142857
+-1.3,jjb04,v_m6,JJB,male,anterior,0.380952381
+-1.6,jjb04,v_m6,JJB,male,anterior,0.285714286
+-2.3,jjb04,v_m6,JJB,male,anterior,0.171428571
+-2.6,jjb04,v_m6,JJB,male,anterior,0.104761905
+-3.3,jjb04,v_m6,JJB,male,anterior,0.057142857
+-3.6,jjb04,v_m6,JJB,male,anterior,0.047619048
+-4.3,jjb04,v_m6,JJB,male,anterior,0.038095238
+-4.6,jjb04,v_m6,JJB,male,anterior,0
+2.4,jjb 05,v_m7,JJB,male,anterior,0.939393939
+1.7,jjb 05,v_m7,JJB,male,anterior,1
+1.4,jjb 05,v_m7,JJB,male,anterior,0.96969697
+0.7,jjb 05,v_m7,JJB,male,anterior,0.96969697
+0.4,jjb 05,v_m7,JJB,male,anterior,0.909090909
+-0.3,jjb 05,v_m7,JJB,male,anterior,0.757575758
+-0.6,jjb 05,v_m7,JJB,male,anterior,0.666666667
+-1.3,jjb 05,v_m7,JJB,male,anterior,0.454545455
+-1.6,jjb 05,v_m7,JJB,male,anterior,0.393939394
+-2.3,jjb 05,v_m7,JJB,male,anterior,0.121212121
+-2.6,jjb 05,v_m7,JJB,male,anterior,0
+-3.3,jjb 05,v_m7,JJB,male,anterior,0
+-3.6,jjb 05,v_m7,JJB,male,anterior,0
+-4.3,jjb 05,v_m7,JJB,male,anterior,0
+-4.6,jjb 05,v_m7,JJB,male,anterior,0
+2.4,jjb 06,v_m8,JJB,male,anterior,0.923076923
+1.7,jjb 06,v_m8,JJB,male,anterior,1
+1.4,jjb 06,v_m8,JJB,male,anterior,0.969230769
+0.7,jjb 06,v_m8,JJB,male,anterior,0.769230769
+0.4,jjb 06,v_m8,JJB,male,anterior,0.538461538
+-0.3,jjb 06,v_m8,JJB,male,anterior,0.2
+-0.6,jjb 06,v_m8,JJB,male,anterior,0.153846154
+-1.3,jjb 06,v_m8,JJB,male,anterior,0.076923077
+-1.6,jjb 06,v_m8,JJB,male,anterior,0.061538462
+-2.3,jjb 06,v_m8,JJB,male,anterior,0
+-2.6,jjb 06,v_m8,JJB,male,anterior,0
+-3.3,jjb 06,v_m8,JJB,male,anterior,0
+-3.6,jjb 06,v_m8,JJB,male,anterior,0
+-4.3,jjb 06,v_m8,JJB,male,anterior,0
+-4.6,jjb 06,v_m8,JJB,male,anterior,0
+2.4,jb 08,v_m9,JJB,male,anterior,1
+1.7,jb 08,v_m9,JJB,male,anterior,0.897959184
+1.4,jb 08,v_m9,JJB,male,anterior,0.857142857
+0.7,jb 08,v_m9,JJB,male,anterior,0.751020408
+0.4,jb 08,v_m9,JJB,male,anterior,0.775510204
+-0.3,jb 08,v_m9,JJB,male,anterior,0.653061224
+-0.6,jb 08,v_m9,JJB,male,anterior,0.489795918
+-1.3,jb 08,v_m9,JJB,male,anterior,0.285714286
+-1.6,jb 08,v_m9,JJB,male,anterior,0.236734694
+-2.3,jb 08,v_m9,JJB,male,anterior,0.057142857
+-2.6,jb 08,v_m9,JJB,male,anterior,0.020408163
+-3.3,jb 08,v_m9,JJB,male,anterior,0
+-3.6,jb 08,v_m9,JJB,male,anterior,0
+-4.3,jb 08,v_m9,JJB,male,anterior,0
+-4.6,jb 08,v_m9,JJB,male,anterior,0
+2.4,AG 01,v_m10,AG,male,anterior,1
+1.7,AG 01,v_m10,AG,male,anterior,0.943661972
+1.4,AG 01,v_m10,AG,male,anterior,0.915492958
+0.7,AG 01,v_m10,AG,male,anterior,0.845070423
+0.4,AG 01,v_m10,AG,male,anterior,0.647887324
+-0.3,AG 01,v_m10,AG,male,anterior,0.35915493
+-0.6,AG 01,v_m10,AG,male,anterior,0.133802817
+-1.3,AG 01,v_m10,AG,male,anterior,0
+-1.6,AG 01,v_m10,AG,male,anterior,0
+-2.3,AG 01,v_m10,AG,male,anterior,0
+-2.6,AG 01,v_m10,AG,male,anterior,0
+-3.3,AG 01,v_m10,AG,male,anterior,0
+-3.6,AG 01,v_m10,AG,male,anterior,0
+-4.3,AG 01,v_m10,AG,male,anterior,0
+-4.6,AG 01,v_m10,AG,male,anterior,0
+2.4,ag 02,v_m11,AG,male,anterior,0.516304348
+1.7,ag 02,v_m11,AG,male,anterior,0.64673913
+1.4,ag 02,v_m11,AG,male,anterior,0.77173913
+0.7,ag 02,v_m11,AG,male,anterior,0.956521739
+0.4,ag 02,v_m11,AG,male,anterior,0.994565217
+-0.3,ag 02,v_m11,AG,male,anterior,1
+-0.6,ag 02,v_m11,AG,male,anterior,0.842391304
+-1.3,ag 02,v_m11,AG,male,anterior,0.35326087
+-1.6,ag 02,v_m11,AG,male,anterior,0.179347826
+-2.3,ag 02,v_m11,AG,male,anterior,0
+-2.6,ag 02,v_m11,AG,male,anterior,0
+-3.3,ag 02,v_m11,AG,male,anterior,0
+-3.6,ag 02,v_m11,AG,male,anterior,0
+-4.3,ag 02,v_m11,AG,male,anterior,0
+-4.6,ag 02,v_m11,AG,male,anterior,0
+2.4,ag03,v_m12,AG,male,anterior,1
+1.7,ag03,v_m12,AG,male,anterior,0.99787234
+1.4,ag03,v_m12,AG,male,anterior,0.989361702
+0.7,ag03,v_m12,AG,male,anterior,0.923404255
+0.4,ag03,v_m12,AG,male,anterior,0.776595745
+-0.3,ag03,v_m12,AG,male,anterior,0.591489362
+-0.6,ag03,v_m12,AG,male,anterior,0.346808511
+-1.3,ag03,v_m12,AG,male,anterior,0.121276596
+-1.6,ag03,v_m12,AG,male,anterior,0.089361702
+-2.3,ag03,v_m12,AG,male,anterior,0.014893617
+-2.6,ag03,v_m12,AG,male,anterior,0.006382979
+-3.3,ag03,v_m12,AG,male,anterior,0
+-3.6,ag03,v_m12,AG,male,anterior,0
+-4.3,ag03,v_m12,AG,male,anterior,0
+-4.6,ag03,v_m12,AG,male,anterior,0
+2.4,ag 02,v_f1,AG,female,posterior,1
+1.7,ag 02,v_f1,AG,female,posterior,0.893457944
+1.4,ag 02,v_f1,AG,female,posterior,0.856074766
+0.7,ag 02,v_f1,AG,female,posterior,0.601869159
+0.4,ag 02,v_f1,AG,female,posterior,0.386915888
+-0.3,ag 02,v_f1,AG,female,posterior,0.177570093
+-0.6,ag 02,v_f1,AG,female,posterior,0.076635514
+-1.3,ag 02,v_f1,AG,female,posterior,0.013084112
+-1.6,ag 02,v_f1,AG,female,posterior,0.011214953
+-2.3,ag 02,v_f1,AG,female,posterior,0
+-2.6,ag 02,v_f1,AG,female,posterior,0
+-3.3,ag 02,v_f1,AG,female,posterior,0
+-3.6,ag 02,v_f1,AG,female,posterior,0
+2.4,ag 03,v_f2,AG,female,posterior,0.932835821
+1.7,ag 03,v_f2,AG,female,posterior,0.985074627
+1.4,ag 03,v_f2,AG,female,posterior,1
+0.7,ag 03,v_f2,AG,female,posterior,0.940298507
+0.4,ag 03,v_f2,AG,female,posterior,0.768656716
+-0.3,ag 03,v_f2,AG,female,posterior,0.406716418
+-0.6,ag 03,v_f2,AG,female,posterior,0.212686567
+-1.3,ag 03,v_f2,AG,female,posterior,0.093283582
+-1.6,ag 03,v_f2,AG,female,posterior,0.059701493
+-2.3,ag 03,v_f2,AG,female,posterior,0.014925373
+-2.6,ag 03,v_f2,AG,female,posterior,0
+-3.3,ag 03,v_f2,AG,female,posterior,0
+-3.6,ag 03,v_f2,AG,female,posterior,0
+-4.3,ag 03,v_f2,AG,female,posterior,0
+2.4,JK01,v_f3,JK,female,posterior,0.685714286
+1.7,JK01,v_f3,JK,female,posterior,0.871428571
+1.4,JK01,v_f3,JK,female,posterior,0.828571429
+0.7,JK01,v_f3,JK,female,posterior,1
+0.4,JK01,v_f3,JK,female,posterior,0.985714286
+-0.3,JK01,v_f3,JK,female,posterior,0.885714286
+-0.6,JK01,v_f3,JK,female,posterior,0.728571429
+-1.3,JK01,v_f3,JK,female,posterior,0.328571429
+-1.6,JK01,v_f3,JK,female,posterior,0.242857143
+-2.3,JK01,v_f3,JK,female,posterior,0.057142857
+-2.6,JK01,v_f3,JK,female,posterior,0.042857143
+-3.3,JK01,v_f3,JK,female,posterior,0.028571429
+-3.6,JK01,v_f3,JK,female,posterior,0
+2.4,ag 01,v_f4,AG,female,anterior,0.672727273
+1.7,ag 01,v_f4,AG,female,anterior,0.860606061
+1.4,ag 01,v_f4,AG,female,anterior,0.890909091
+0.7,ag 01,v_f4,AG,female,anterior,1
+0.4,ag 01,v_f4,AG,female,anterior,1
+-0.3,ag 01,v_f4,AG,female,anterior,0.921212121
+-0.6,ag 01,v_f4,AG,female,anterior,0.745454545
+-1.3,ag 01,v_f4,AG,female,anterior,0.36969697
+-1.6,ag 01,v_f4,AG,female,anterior,0.242424242
+-2.3,ag 01,v_f4,AG,female,anterior,0.060606061
+-2.6,ag 01,v_f4,AG,female,anterior,0.03030303
+-3.3,ag 01,v_f4,AG,female,anterior,0.012121212
+-3.6,ag 01,v_f4,AG,female,anterior,0
+-4.3,ag 01,v_f4,AG,female,anterior,0
+-4.6,ag 01,v_f4,AG,female,anterior,0
+2.4,ag 05,v_f5,AG,female,posterior,0.950892857
+1.7,ag 05,v_f5,AG,female,posterior,0.96875
+1.4,ag 05,v_f5,AG,female,posterior,1
+0.7,ag 05,v_f5,AG,female,posterior,1
+0.4,ag 05,v_f5,AG,female,posterior,0.979910714
+-0.3,ag 05,v_f5,AG,female,posterior,0.808035714
+-0.6,ag 05,v_f5,AG,female,posterior,0.573660714
+-1.3,ag 05,v_f5,AG,female,posterior,0.234375
+-1.6,ag 05,v_f5,AG,female,posterior,0.178571429
+-2.3,ag 05,v_f5,AG,female,posterior,0.049107143
+-2.6,ag 05,v_f5,AG,female,posterior,0.022321429
+-3.3,ag 05,v_f5,AG,female,posterior,0.008928571
+-3.6,ag 05,v_f5,AG,female,posterior,0.006696429
+-4.3,ag 05,v_f5,AG,female,posterior,0.004464286
+-4.6,ag 05,v_f5,AG,female,posterior,0
+2.4,ag 04,v_f6,AG,female,anterior,0.795180723
+1.7,ag 04,v_f6,AG,female,anterior,0.819277108
+1.4,ag 04,v_f6,AG,female,anterior,0.939759036
+0.7,ag 04,v_f6,AG,female,anterior,0.951807229
+0.4,ag 04,v_f6,AG,female,anterior,1
+-0.3,ag 04,v_f6,AG,female,anterior,0.698795181
+-0.6,ag 04,v_f6,AG,female,anterior,0.240963855
+-1.3,ag 04,v_f6,AG,female,anterior,0.144578313
+-1.6,ag 04,v_f6,AG,female,anterior,0.024096386
+-2.3,ag 04,v_f6,AG,female,anterior,0
+-2.6,ag 04,v_f6,AG,female,anterior,0
+-3.3,ag 04,v_f6,AG,female,anterior,0
+-3.6,ag 04,v_f6,AG,female,anterior,0
+-4.3,ag 04,v_f6,AG,female,anterior,0
+-4.6,ag 04,v_f6,AG,female,anterior,0
+2.4,ag 05,v_f7,AG,female,anterior,0.977443609
+1.7,ag 05,v_f7,AG,female,anterior,1
+1.4,ag 05,v_f7,AG,female,anterior,1
+0.7,ag 05,v_f7,AG,female,anterior,0.879699248
+0.4,ag 05,v_f7,AG,female,anterior,0.714285714
+-0.3,ag 05,v_f7,AG,female,anterior,0.646616541
+-0.6,ag 05,v_f7,AG,female,anterior,0.503759398
+-1.3,ag 05,v_f7,AG,female,anterior,0.22556391
+-1.6,ag 05,v_f7,AG,female,anterior,0.172932331
+-2.3,ag 05,v_f7,AG,female,anterior,0.052631579
+-2.6,ag 05,v_f7,AG,female,anterior,0.022556391
+-3.3,ag 05,v_f7,AG,female,anterior,0
+-3.6,ag 05,v_f7,AG,female,anterior,0
+-4.3,ag 05,v_f7,AG,female,anterior,0
+-4.6,ag 05,v_f7,AG,female,anterior,0

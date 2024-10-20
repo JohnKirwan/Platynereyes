@@ -1,0 +1,655 @@
+﻿WV,ID,Observer,id,Group,EyePosition,Response
+420,ag01,AG,s_a1,atoke,posterior,0.158283828
+430,ag01,AG,s_a1,atoke,posterior,0.375036938
+440,ag01,AG,s_a1,atoke,posterior,0.529753756
+450,ag01,AG,s_a1,atoke,posterior,0.59439349
+460,ag01,AG,s_a1,atoke,posterior,0.748297069
+470,ag01,AG,s_a1,atoke,posterior,0.870267057
+480,ag01,AG,s_a1,atoke,posterior,0.891813093
+490,ag01,AG,s_a1,atoke,posterior,0.99980325
+500,ag01,AG,s_a1,atoke,posterior,0.954149538
+510,ag01,AG,s_a1,atoke,posterior,0.954149538
+520,ag01,AG,s_a1,atoke,posterior,0.919014459
+530,ag01,AG,s_a1,atoke,posterior,0.870267057
+540,ag01,AG,s_a1,atoke,posterior,0.748297069
+560,ag01,AG,s_a1,atoke,posterior,0.472143532
+580,ag01,AG,s_a1,atoke,posterior,0.185322303
+600,ag01,AG,s_a1,atoke,posterior,0.027880628
+620,ag01,AG,s_a1,atoke,posterior,0.003854338
+640,ag01,AG,s_a1,atoke,posterior,0.001099486
+660,ag01,AG,s_a1,atoke,posterior,0.000692851
+680,ag01,AG,s_a1,atoke,posterior,0.00025663
+420,danka 01,Danka,s_a2,atoke,posterior,0.240322395
+430,danka 01,Danka,s_a2,atoke,posterior,0.473862229
+440,danka 01,Danka,s_a2,atoke,posterior,0.51131607
+450,danka 01,Danka,s_a2,atoke,posterior,0.540536522
+460,danka 01,Danka,s_a2,atoke,posterior,0.587618476
+470,danka 01,Danka,s_a2,atoke,posterior,0.587618476
+480,danka 01,Danka,s_a2,atoke,posterior,0.885605475
+490,danka 01,Danka,s_a2,atoke,posterior,1.000015295
+500,danka 01,Danka,s_a2,atoke,posterior,0.885605475
+510,danka 01,Danka,s_a2,atoke,posterior,0.794756196
+520,danka 01,Danka,s_a2,atoke,posterior,0.794756196
+530,danka 01,Danka,s_a2,atoke,posterior,0.622021352
+540,danka 01,Danka,s_a2,atoke,posterior,0.561047811
+560,danka 01,Danka,s_a2,atoke,posterior,0.487578248
+580,danka 01,Danka,s_a2,atoke,posterior,0.240322395
+600,danka 01,Danka,s_a2,atoke,posterior,0.033109165
+620,danka 01,Danka,s_a2,atoke,posterior,0.006221258
+640,danka 01,Danka,s_a2,atoke,posterior,0.002664897
+660,danka 01,Danka,s_a2,atoke,posterior,0.001016204
+680,danka 01,Danka,s_a2,atoke,posterior,0.000341607
+420,jjb 03,JJB,s_a3,atoke,posterior,0.181428538
+430,jjb 03,JJB,s_a3,atoke,posterior,0.271053051
+440,jjb 03,JJB,s_a3,atoke,posterior,0.636689518
+450,jjb 03,JJB,s_a3,atoke,posterior,1
+460,jjb 03,JJB,s_a3,atoke,posterior,0.796344734
+470,jjb 03,JJB,s_a3,atoke,posterior,1
+480,jjb 03,JJB,s_a3,atoke,posterior,0.796344734
+490,jjb 03,JJB,s_a3,atoke,posterior,1
+500,jjb 03,JJB,s_a3,atoke,posterior,0.796344734
+510,jjb 03,JJB,s_a3,atoke,posterior,0.636689518
+520,jjb 03,JJB,s_a3,atoke,posterior,0.333459475
+530,jjb 03,JJB,s_a3,atoke,posterior,0.411974561
+540,jjb 03,JJB,s_a3,atoke,posterior,0.181428538
+560,jjb 03,JJB,s_a3,atoke,posterior,0.085766009
+580,jjb 03,JJB,s_a3,atoke,posterior,0.085766009
+600,jjb 03,JJB,s_a3,atoke,posterior,0.085766009
+620,jjb 03,JJB,s_a3,atoke,posterior,0.085766009
+640,jjb 03,JJB,s_a3,atoke,posterior,0.085766009
+660,jjb 03,JJB,s_a3,atoke,posterior,0.085766009
+680,jjb 03,JJB,s_a3,atoke,posterior,0.085766009
+420,jjb 05,JJB,s_a4,atoke,posterior,0.091907494
+430,jjb 05,JJB,s_a4,atoke,posterior,0.189966936
+440,jjb 05,JJB,s_a4,atoke,posterior,0.503580951
+450,jjb 05,JJB,s_a4,atoke,posterior,0.758511941
+460,jjb 05,JJB,s_a4,atoke,posterior,1
+470,jjb 05,JJB,s_a4,atoke,posterior,1
+480,jjb 05,JJB,s_a4,atoke,posterior,1
+490,jjb 05,JJB,s_a4,atoke,posterior,0.687787798
+500,jjb 05,JJB,s_a4,atoke,posterior,1
+510,jjb 05,JJB,s_a4,atoke,posterior,0.834074424
+520,jjb 05,JJB,s_a4,atoke,posterior,0.560447182
+530,jjb 05,JJB,s_a4,atoke,posterior,0.451056738
+540,jjb 05,JJB,s_a4,atoke,posterior,0.143712899
+560,jjb 05,JJB,s_a4,atoke,posterior,0.066889956
+580,jjb 05,JJB,s_a4,atoke,posterior,0.033718809
+600,jjb 05,JJB,s_a4,atoke,posterior,0.033718809
+620,jjb 05,JJB,s_a4,atoke,posterior,0.033718809
+640,jjb 05,JJB,s_a4,atoke,posterior,0.033718809
+660,jjb 05,JJB,s_a4,atoke,posterior,0.033718809
+680,jjb 05,JJB,s_a4,atoke,posterior,0.033718809
+420,jjb07,JJB,s_a5,atoke,posterior,0.053138072
+430,jjb07,JJB,s_a5,atoke,posterior,0.190941775
+440,jjb07,JJB,s_a5,atoke,posterior,0.522307115
+450,jjb07,JJB,s_a5,atoke,posterior,0.746671161
+460,jjb07,JJB,s_a5,atoke,posterior,0.642066377
+470,jjb07,JJB,s_a5,atoke,posterior,0.953321877
+480,jjb07,JJB,s_a5,atoke,posterior,0.579533386
+490,jjb07,JJB,s_a5,atoke,posterior,1
+500,jjb07,JJB,s_a5,atoke,posterior,0.908503537
+510,jjb07,JJB,s_a5,atoke,posterior,0.579533386
+520,jjb07,JJB,s_a5,atoke,posterior,0.579533386
+530,jjb07,JJB,s_a5,atoke,posterior,0.550280465
+540,jjb07,JJB,s_a5,atoke,posterior,0.339344739
+560,jjb07,JJB,s_a5,atoke,posterior,0.053138072
+580,jjb07,JJB,s_a5,atoke,posterior,0.053138072
+600,jjb07,JJB,s_a5,atoke,posterior,0.053138072
+620,jjb07,JJB,s_a5,atoke,posterior,0.053138072
+640,jjb07,JJB,s_a5,atoke,posterior,0.053138072
+660,jjb07,JJB,s_a5,atoke,posterior,0.053138072
+680,jjb07,JJB,s_a5,atoke,posterior,0.053138072
+420,jjb08,JJB,s_a6,atoke,posterior,0.068867188
+430,jjb08,JJB,s_a6,atoke,posterior,0.505714831
+440,jjb08,JJB,s_a6,atoke,posterior,0.572567533
+450,jjb08,JJB,s_a6,atoke,posterior,0.809032216
+460,jjb08,JJB,s_a6,atoke,posterior,0.723925659
+470,jjb08,JJB,s_a6,atoke,posterior,0.900907541
+480,jjb08,JJB,s_a6,atoke,posterior,0.949520322
+490,jjb08,JJB,s_a6,atoke,posterior,0.900907541
+500,jjb08,JJB,s_a6,atoke,posterior,1
+510,jjb08,JJB,s_a6,atoke,posterior,0.6081488
+520,jjb08,JJB,s_a6,atoke,posterior,0.444401976
+530,jjb08,JJB,s_a6,atoke,posterior,0.362313061
+540,jjb08,JJB,s_a6,atoke,posterior,0.18009349
+560,jjb08,JJB,s_a6,atoke,posterior,0.055294155
+580,jjb08,JJB,s_a6,atoke,posterior,0.018105271
+600,jjb08,JJB,s_a6,atoke,posterior,0.003346549
+620,jjb08,JJB,s_a6,atoke,posterior,0.003346549
+640,jjb08,JJB,s_a6,atoke,posterior,0.003346549
+660,jjb08,JJB,s_a6,atoke,posterior,0.003346549
+680,jjb08,JJB,s_a6,atoke,posterior,0.003346549
+420,jjb09,JJB,s_a7,atoke,posterior,0.109000065
+430,jjb09,JJB,s_a7,atoke,posterior,0.355275036
+440,jjb09,JJB,s_a7,atoke,posterior,0.404138851
+450,jjb09,JJB,s_a7,atoke,posterior,0.609416322
+460,jjb09,JJB,s_a7,atoke,posterior,0.581886992
+470,jjb09,JJB,s_a7,atoke,posterior,0.812662548
+480,jjb09,JJB,s_a7,atoke,posterior,0.729344389
+490,jjb09,JJB,s_a7,atoke,posterior,0.812662548
+500,jjb09,JJB,s_a7,atoke,posterior,1
+510,jjb09,JJB,s_a7,atoke,posterior,0.697852249
+520,jjb09,JJB,s_a7,atoke,posterior,0.581886992
+530,jjb09,JJB,s_a7,atoke,posterior,0.517145691
+540,jjb09,JJB,s_a7,atoke,posterior,0.457996106
+560,jjb09,JJB,s_a7,atoke,posterior,0.235674118
+580,jjb09,JJB,s_a7,atoke,posterior,0.109000065
+600,jjb09,JJB,s_a7,atoke,posterior,0.109000065
+620,jjb09,JJB,s_a7,atoke,posterior,0.109000065
+640,jjb09,JJB,s_a7,atoke,posterior,0.109000065
+660,jjb09,JJB,s_a7,atoke,posterior,0.109000065
+680,jjb09,JJB,s_a7,atoke,posterior,0.109000065
+420,jjb10,JJB,s_a8,atoke,posterior,0.104063782
+430,jjb10,JJB,s_a8,atoke,posterior,0.570366985
+440,jjb10,JJB,s_a8,atoke,posterior,0.854623974
+450,jjb10,JJB,s_a8,atoke,posterior,0.877872002
+460,jjb10,JJB,s_a8,atoke,posterior,0.765575124
+470,jjb10,JJB,s_a8,atoke,posterior,0.877872002
+480,jjb10,JJB,s_a8,atoke,posterior,1
+490,jjb10,JJB,s_a8,atoke,posterior,1
+500,jjb10,JJB,s_a8,atoke,posterior,1
+510,jjb10,JJB,s_a8,atoke,posterior,0.606314237
+520,jjb10,JJB,s_a8,atoke,posterior,0.663115405
+530,jjb10,JJB,s_a8,atoke,posterior,0.570366985
+540,jjb10,JJB,s_a8,atoke,posterior,0.456343101
+560,jjb10,JJB,s_a8,atoke,posterior,0.160812879
+580,jjb10,JJB,s_a8,atoke,posterior,0.029927848
+600,jjb10,JJB,s_a8,atoke,posterior,0.00927118
+620,jjb10,JJB,s_a8,atoke,posterior,0.00927118
+640,jjb10,JJB,s_a8,atoke,posterior,0.00927118
+660,jjb10,JJB,s_a8,atoke,posterior,0.00927118
+680,jjb10,JJB,s_a8,atoke,posterior,0.00927118
+430,AG 01,AG,s_a9,atoke,anterior,0.670923048
+440,AG 01,AG,s_a9,atoke,anterior,0.670923048
+450,AG 01,AG,s_a9,atoke,anterior,0.736358512
+460,AG 01,AG,s_a9,atoke,anterior,0.811974951
+470,AG 01,AG,s_a9,atoke,anterior,1.000332714
+480,AG 01,AG,s_a9,atoke,anterior,0.899353381
+490,AG 01,AG,s_a9,atoke,anterior,0.736358512
+500,AG 01,AG,s_a9,atoke,anterior,0.670923048
+510,AG 01,AG,s_a9,atoke,anterior,0.614271791
+520,AG 01,AG,s_a9,atoke,anterior,0.565141593
+530,AG 01,AG,s_a9,atoke,anterior,0.484847445
+540,AG 01,AG,s_a9,atoke,anterior,0.421395285
+560,AG 01,AG,s_a9,atoke,anterior,0.221028019
+580,AG 01,AG,s_a9,atoke,anterior,0.010920184
+600,AG 01,AG,s_a9,atoke,anterior,0.001920347
+620,AG 01,AG,s_a9,atoke,anterior,0.001920347
+640,AG 01,AG,s_a9,atoke,anterior,0.000173516
+660,AG 01,AG,s_a9,atoke,anterior,0.000173516
+680,AG 01,AG,s_a9,atoke,anterior,0.000173516
+420,ag02,AG,s_a10,atoke,anterior,0.07781791
+430,ag02,AG,s_a10,atoke,anterior,0.482594296
+440,ag02,AG,s_a10,atoke,anterior,0.692133491
+450,ag02,AG,s_a10,atoke,anterior,0.831729536
+460,ag02,AG,s_a10,atoke,anterior,0.999997108
+470,ag02,AG,s_a10,atoke,anterior,0.999997108
+480,ag02,AG,s_a10,atoke,anterior,0.831729536
+490,ag02,AG,s_a10,atoke,anterior,0.999997108
+500,ag02,AG,s_a10,atoke,anterior,0.831729536
+510,ag02,AG,s_a10,atoke,anterior,0.692133491
+520,ag02,AG,s_a10,atoke,anterior,0.482594296
+530,ag02,AG,s_a10,atoke,anterior,0.341987651
+540,ag02,AG,s_a10,atoke,anterior,0.212907365
+560,ag02,AG,s_a10,atoke,anterior,0.097423414
+580,ag02,AG,s_a10,atoke,anterior,0.033508284
+600,ag02,AG,s_a10,atoke,anterior,0.003658923
+620,ag02,AG,s_a10,atoke,anterior,0.000512885
+640,ag02,AG,s_a10,atoke,anterior,0.000134687
+660,ag02,AG,s_a10,atoke,anterior,0.000134687
+680,ag02,AG,s_a10,atoke,anterior,0.000134687
+420,jjb02,JJB,s_a11,atoke,anterior,0.050685384
+430,jjb02,JJB,s_a11,atoke,anterior,0.4056045
+440,jjb02,JJB,s_a11,atoke,anterior,0.624732314
+450,jjb02,JJB,s_a11,atoke,anterior,0.695316239
+460,jjb02,JJB,s_a11,atoke,anterior,0.671661073
+470,jjb02,JJB,s_a11,atoke,anterior,0.908463334
+480,jjb02,JJB,s_a11,atoke,anterior,0.954655971
+490,jjb02,JJB,s_a11,atoke,anterior,1
+500,jjb02,JJB,s_a11,atoke,anterior,0.97744423
+510,jjb02,JJB,s_a11,atoke,anterior,0.861599457
+520,jjb02,JJB,s_a11,atoke,anterior,0.766671794
+530,jjb02,JJB,s_a11,atoke,anterior,0.766671794
+540,jjb02,JJB,s_a11,atoke,anterior,0.578520259
+560,jjb02,JJB,s_a11,atoke,anterior,0.202424802
+580,jjb02,JJB,s_a11,atoke,anterior,0.050685384
+600,jjb02,JJB,s_a11,atoke,anterior,0.009366306
+620,jjb02,JJB,s_a11,atoke,anterior,0.009366306
+640,jjb02,JJB,s_a11,atoke,anterior,0.009366306
+660,jjb02,JJB,s_a11,atoke,anterior,0.009366306
+680,jjb02,JJB,s_a11,atoke,anterior,0.009366306
+430,jjb12,JJB,s_a12,atoke,anterior,0.448122241
+440,jjb12,JJB,s_a12,atoke,anterior,0.64134502
+450,jjb12,JJB,s_a12,atoke,anterior,0.886971151
+460,jjb12,JJB,s_a12,atoke,anterior,0.76759589
+470,jjb12,JJB,s_a12,atoke,anterior,0.886971151
+480,jjb12,JJB,s_a12,atoke,anterior,0.857819556
+490,jjb12,JJB,s_a12,atoke,anterior,0.972140139
+500,jjb12,JJB,s_a12,atoke,anterior,0.972140139
+510,jjb12,JJB,s_a12,atoke,anterior,1
+520,jjb12,JJB,s_a12,atoke,anterior,0.828214764
+530,jjb12,JJB,s_a12,atoke,anterior,0.705190249
+540,jjb12,JJB,s_a12,atoke,anterior,0.479845739
+560,jjb12,JJB,s_a12,atoke,anterior,0.139403915
+580,jjb12,JJB,s_a12,atoke,anterior,0.009639432
+600,jjb12,JJB,s_a12,atoke,anterior,0.009639432
+620,jjb12,JJB,s_a12,atoke,anterior,0.009639432
+640,jjb12,JJB,s_a12,atoke,anterior,0.009639432
+660,jjb12,JJB,s_a12,atoke,anterior,0.009639432
+680,jjb12,JJB,s_a12,atoke,anterior,0.009639432
+420,jjb09,JJB,s_a13,atoke,anterior,0.010073506
+430,jjb09,JJB,s_a13,atoke,anterior,0.089142971
+440,jjb09,JJB,s_a13,atoke,anterior,0.383181398
+450,jjb09,JJB,s_a13,atoke,anterior,0.517138823
+460,jjb09,JJB,s_a13,atoke,anterior,0.517138823
+470,jjb09,JJB,s_a13,atoke,anterior,1
+480,jjb09,JJB,s_a13,atoke,anterior,0.711692476
+490,jjb09,JJB,s_a13,atoke,anterior,0.711692476
+500,jjb09,JJB,s_a13,atoke,anterior,1
+510,jjb09,JJB,s_a13,atoke,anterior,1
+520,jjb09,JJB,s_a13,atoke,anterior,0.28916406
+530,jjb09,JJB,s_a13,atoke,anterior,0.28916406
+540,jjb09,JJB,s_a13,atoke,anterior,0.221966251
+560,jjb09,JJB,s_a13,atoke,anterior,0.050607109
+580,jjb09,JJB,s_a13,atoke,anterior,0.013951862
+600,jjb09,JJB,s_a13,atoke,anterior,0.007119808
+620,jjb09,JJB,s_a13,atoke,anterior,0.007119808
+640,jjb09,JJB,s_a13,atoke,anterior,0.007119808
+660,jjb09,JJB,s_a13,atoke,anterior,0.007119808
+680,jjb09,JJB,s_a13,atoke,anterior,0.007119808
+420,jjb11,JJB,s_a14,atoke,anterior,0.096058262
+430,jjb11,JJB,s_a14,atoke,anterior,0.433980921
+440,jjb11,JJB,s_a14,atoke,anterior,0.541860278
+450,jjb11,JJB,s_a14,atoke,anterior,0.541860278
+460,jjb11,JJB,s_a14,atoke,anterior,0.684412297
+470,jjb11,JJB,s_a14,atoke,anterior,0.684412297
+480,jjb11,JJB,s_a14,atoke,anterior,0.877395708
+490,jjb11,JJB,s_a14,atoke,anterior,0.877395708
+500,jjb11,JJB,s_a14,atoke,anterior,1
+510,jjb11,JJB,s_a14,atoke,anterior,0.773323425
+520,jjb11,JJB,s_a14,atoke,anterior,0.541860278
+530,jjb11,JJB,s_a14,atoke,anterior,0.541860278
+540,jjb11,JJB,s_a14,atoke,anterior,0.350456699
+560,jjb11,JJB,s_a14,atoke,anterior,0.085011296
+580,jjb11,JJB,s_a14,atoke,anterior,0.015420987
+600,jjb11,JJB,s_a14,atoke,anterior,0.015420987
+620,jjb11,JJB,s_a14,atoke,anterior,0.015420987
+640,jjb11,JJB,s_a14,atoke,anterior,0.015420987
+660,jjb11,JJB,s_a14,atoke,anterior,0.015420987
+680,jjb11,JJB,s_a14,atoke,anterior,0.015420987
+420,jjb01,JJB,s_m1,male,posterior,0.05310157
+430,jjb01,JJB,s_m1,male,posterior,0.265731552
+440,jjb01,JJB,s_m1,male,posterior,0.335660439
+450,jjb01,JJB,s_m1,male,posterior,0.646431422
+460,jjb01,JJB,s_m1,male,posterior,0.616137045
+470,jjb01,JJB,s_m1,male,posterior,0.827962407
+480,jjb01,JJB,s_m1,male,posterior,0.857576062
+490,jjb01,JJB,s_m1,male,posterior,0.857576062
+500,jjb01,JJB,s_m1,male,posterior,1
+510,jjb01,JJB,s_m1,male,posterior,0.798068718
+520,jjb01,JJB,s_m1,male,posterior,0.676831749
+530,jjb01,JJB,s_m1,male,posterior,0.646431422
+540,jjb01,JJB,s_m1,male,posterior,0.265731552
+560,jjb01,JJB,s_m1,male,posterior,0.099313541
+580,jjb01,JJB,s_m1,male,posterior,0.029940934
+600,jjb01,JJB,s_m1,male,posterior,0.029940934
+620,jjb01,JJB,s_m1,male,posterior,0.029940934
+640,jjb01,JJB,s_m1,male,posterior,0.029940934
+660,jjb01,JJB,s_m1,male,posterior,0.029940934
+680,jjb01,JJB,s_m1,male,posterior,0.029940934
+420,jjb03,JJB,s_m2,male,posterior,0.048201426
+430,jjb03,JJB,s_m2,male,posterior,0.411249396
+440,jjb03,JJB,s_m2,male,posterior,0.662272317
+450,jjb03,JJB,s_m2,male,posterior,0.77980915
+460,jjb03,JJB,s_m2,male,posterior,0.711722134
+470,jjb03,JJB,s_m2,male,posterior,0.862942557
+480,jjb03,JJB,s_m2,male,posterior,0.8106772
+490,jjb03,JJB,s_m2,male,posterior,0.77980915
+500,jjb03,JJB,s_m2,male,posterior,0.92487526
+510,jjb03,JJB,s_m2,male,posterior,1
+520,jjb03,JJB,s_m2,male,posterior,0.751310067
+530,jjb03,JJB,s_m2,male,posterior,0.69911274
+540,jjb03,JJB,s_m2,male,posterior,0.551018188
+560,jjb03,JJB,s_m2,male,posterior,0.232029672
+580,jjb03,JJB,s_m2,male,posterior,0.037808552
+600,jjb03,JJB,s_m2,male,posterior,0.008759446
+620,jjb03,JJB,s_m2,male,posterior,0.01421867
+640,jjb03,JJB,s_m2,male,posterior,0.012153619
+660,jjb03,JJB,s_m2,male,posterior,0.008759446
+680,jjb03,JJB,s_m2,male,posterior,0.016560755
+420,jjb06,JJB,s_m3,male,posterior,0.042572482
+430,jjb06,JJB,s_m3,male,posterior,0.094807416
+440,jjb06,JJB,s_m3,male,posterior,0.427371012
+450,jjb06,JJB,s_m3,male,posterior,0.857584424
+460,jjb06,JJB,s_m3,male,posterior,0.427371012
+470,jjb06,JJB,s_m3,male,posterior,0.721511189
+480,jjb06,JJB,s_m3,male,posterior,0.479858916
+490,jjb06,JJB,s_m3,male,posterior,0.857584424
+500,jjb06,JJB,s_m3,male,posterior,1
+510,jjb06,JJB,s_m3,male,posterior,0.857584424
+520,jjb06,JJB,s_m3,male,posterior,0.594793363
+530,jjb06,JJB,s_m3,male,posterior,0.479858916
+540,jjb06,JJB,s_m3,male,posterior,0.29130768
+560,jjb06,JJB,s_m3,male,posterior,0.078504408
+580,jjb06,JJB,s_m3,male,posterior,0.007660684
+600,jjb06,JJB,s_m3,male,posterior,0.007660684
+620,jjb06,JJB,s_m3,male,posterior,0.007660684
+640,jjb06,JJB,s_m3,male,posterior,0.007660684
+660,jjb06,JJB,s_m3,male,posterior,0.007660684
+680,jjb06,JJB,s_m3,male,posterior,0.007660684
+420,jjb 03,JJB,s_m4,male,anterior,0.053539869
+430,jjb 03,JJB,s_m4,male,anterior,0.42434272
+440,jjb 03,JJB,s_m4,male,anterior,0.808787834
+450,jjb 03,JJB,s_m4,male,anterior,0.786344531
+460,jjb 03,JJB,s_m4,male,anterior,0.77542628
+470,jjb 03,JJB,s_m4,male,anterior,0.909101403
+480,jjb 03,JJB,s_m4,male,anterior,0.856546799
+490,jjb 03,JJB,s_m4,male,anterior,0.937594386
+500,jjb 03,JJB,s_m4,male,anterior,1
+510,jjb 03,JJB,s_m4,male,anterior,0.882145177
+520,jjb 03,JJB,s_m4,male,anterior,0.703401624
+530,jjb 03,JJB,s_m4,male,anterior,0.627041809
+540,jjb 03,JJB,s_m4,male,anterior,0.351028164
+560,jjb 03,JJB,s_m4,male,anterior,0.106537775
+580,jjb 03,JJB,s_m4,male,anterior,0.021006804
+600,jjb 03,JJB,s_m4,male,anterior,0.007982477
+620,jjb 03,JJB,s_m4,male,anterior,0.007982477
+640,jjb 03,JJB,s_m4,male,anterior,0.007982477
+660,jjb 03,JJB,s_m4,male,anterior,0.007982477
+680,jjb 03,JJB,s_m4,male,anterior,0.007982477
+420,jjb 04,JJB,s_m5,male,anterior,0.015350666
+430,jjb 04,JJB,s_m5,male,anterior,0.242663857
+440,jjb 04,JJB,s_m5,male,anterior,0.434493371
+450,jjb 04,JJB,s_m5,male,anterior,0.730501652
+460,jjb 04,JJB,s_m5,male,anterior,0.520138958
+470,jjb 04,JJB,s_m5,male,anterior,0.857349979
+480,jjb 04,JJB,s_m5,male,anterior,0.730501652
+490,jjb 04,JJB,s_m5,male,anterior,0.857349979
+500,jjb 04,JJB,s_m5,male,anterior,0.730501652
+510,jjb 04,JJB,s_m5,male,anterior,1
+520,jjb 04,JJB,s_m5,male,anterior,0.730501652
+530,jjb 04,JJB,s_m5,male,anterior,0.618448453
+540,jjb 04,JJB,s_m5,male,anterior,0.296832662
+560,jjb 04,JJB,s_m5,male,anterior,0.036236214
+580,jjb 04,JJB,s_m5,male,anterior,0.00300987
+600,jjb 04,JJB,s_m5,male,anterior,0.000674555
+620,jjb 04,JJB,s_m5,male,anterior,0.000674555
+640,jjb 04,JJB,s_m5,male,anterior,0.000674555
+660,jjb 04,JJB,s_m5,male,anterior,0.000674555
+680,jjb 04,JJB,s_m5,male,anterior,0.000674555
+420,jjb 06,JJB,s_m6,male,anterior,0.133666039
+430,jjb 06,JJB,s_m6,male,anterior,0.348247982
+440,jjb 06,JJB,s_m6,male,anterior,0.435378385
+450,jjb 06,JJB,s_m6,male,anterior,0.667899474
+460,jjb 06,JJB,s_m6,male,anterior,0.540913695
+470,jjb 06,JJB,s_m6,male,anterior,0.819700861
+480,jjb 06,JJB,s_m6,male,anterior,0.819700861
+490,jjb 06,JJB,s_m6,male,anterior,1
+500,jjb 06,JJB,s_m6,male,anterior,1
+510,jjb 06,JJB,s_m6,male,anterior,0.667899474
+520,jjb 06,JJB,s_m6,male,anterior,0.540913695
+530,jjb 06,JJB,s_m6,male,anterior,0.540913695
+540,jjb 06,JJB,s_m6,male,anterior,0.348247982
+560,jjb 06,JJB,s_m6,male,anterior,0.133666039
+580,jjb 06,JJB,s_m6,male,anterior,0.133666039
+600,jjb 06,JJB,s_m6,male,anterior,0.133666039
+620,jjb 06,JJB,s_m6,male,anterior,0.133666039
+640,jjb 06,JJB,s_m6,male,anterior,0.133666039
+660,jjb 06,JJB,s_m6,male,anterior,0.133666039
+680,jjb 06,JJB,s_m6,male,anterior,0.133666039
+420,jjb05,JJB,s_m7,male,anterior,0.07884341
+430,jjb05,JJB,s_m7,male,anterior,0.207181341
+440,jjb05,JJB,s_m7,male,anterior,0.40016622
+450,jjb05,JJB,s_m7,male,anterior,0.48687515
+460,jjb05,JJB,s_m7,male,anterior,0.48687515
+470,jjb05,JJB,s_m7,male,anterior,0.5947613
+480,jjb05,JJB,s_m7,male,anterior,0.5947613
+490,jjb05,JJB,s_m7,male,anterior,1
+500,jjb05,JJB,s_m7,male,anterior,0.899211258
+510,jjb05,JJB,s_m7,male,anterior,0.899211258
+520,jjb05,JJB,s_m7,male,anterior,0.5947613
+530,jjb05,JJB,s_m7,male,anterior,0.5947613
+540,jjb05,JJB,s_m7,male,anterior,0.363307268
+560,jjb05,JJB,s_m7,male,anterior,0.172871669
+580,jjb05,JJB,s_m7,male,anterior,0.07884341
+600,jjb05,JJB,s_m7,male,anterior,0.07884341
+620,jjb05,JJB,s_m7,male,anterior,0.07884341
+640,jjb05,JJB,s_m7,male,anterior,0.07884341
+660,jjb05,JJB,s_m7,male,anterior,0.07884341
+680,jjb05,JJB,s_m7,male,anterior,0.07884341
+420,jjb08,JJB,s_m8,male,anterior,0.025674666
+430,jjb08,JJB,s_m8,male,anterior,0.18137889
+440,jjb08,JJB,s_m8,male,anterior,0.470334986
+450,jjb08,JJB,s_m8,male,anterior,0.616064128
+460,jjb08,JJB,s_m8,male,anterior,0.585146899
+470,jjb08,JJB,s_m8,male,anterior,0.702783748
+480,jjb08,JJB,s_m8,male,anterior,0.807714653
+490,jjb08,JJB,s_m8,male,anterior,1
+500,jjb08,JJB,s_m8,male,anterior,0.973085234
+510,jjb08,JJB,s_m8,male,anterior,1
+520,jjb08,JJB,s_m8,male,anterior,0.702783748
+530,jjb08,JJB,s_m8,male,anterior,0.795671389
+540,jjb08,JJB,s_m8,male,anterior,0.258415744
+560,jjb08,JJB,s_m8,male,anterior,0.081183256
+580,jjb08,JJB,s_m8,male,anterior,0.031480067
+600,jjb08,JJB,s_m8,male,anterior,0.016698971
+620,jjb08,JJB,s_m8,male,anterior,0.013312131
+640,jjb08,JJB,s_m8,male,anterior,0.013312131
+660,jjb08,JJB,s_m8,male,anterior,0.013312131
+680,jjb08,JJB,s_m8,male,anterior,0.016698971
+420,ag01,AG,s_m9,male,anterior,0.116912506
+430,ag01,AG,s_m9,male,anterior,0.277692651
+440,ag01,AG,s_m9,male,anterior,0.552398623
+450,ag01,AG,s_m9,male,anterior,1
+460,ag01,AG,s_m9,male,anterior,0.848589145
+470,ag01,AG,s_m9,male,anterior,0.727940618
+480,ag01,AG,s_m9,male,anterior,0.848589145
+490,ag01,AG,s_m9,male,anterior,0.630971297
+500,ag01,AG,s_m9,male,anterior,1
+510,ag01,AG,s_m9,male,anterior,0.630971297
+520,ag01,AG,s_m9,male,anterior,0.391831324
+530,ag01,AG,s_m9,male,anterior,0.488246417
+540,ag01,AG,s_m9,male,anterior,0.391831324
+560,ag01,AG,s_m9,male,anterior,0.259269757
+580,ag01,AG,s_m9,male,anterior,0.19990531
+600,ag01,AG,s_m9,male,anterior,0.116912506
+620,ag01,AG,s_m9,male,anterior,0.111870816
+640,ag01,AG,s_m9,male,anterior,0.100989253
+660,ag01,AG,s_m9,male,anterior,0.095193216
+680,ag01,AG,s_m9,male,anterior,0.126161015
+420,ag02,AG,s_m10,male,anterior,0.018393043
+430,ag02,AG,s_m10,male,anterior,0.06255897
+440,ag02,AG,s_m10,male,anterior,0.35443907
+450,ag02,AG,s_m10,male,anterior,0.399059348
+460,ag02,AG,s_m10,male,anterior,0.60903968
+470,ag02,AG,s_m10,male,anterior,0.868462736
+480,ag02,AG,s_m10,male,anterior,0.883711463
+490,ag02,AG,s_m10,male,anterior,0.868462736
+500,ag02,AG,s_m10,male,anterior,0.999972573
+510,ag02,AG,s_m10,male,anterior,0.77399399
+520,ag02,AG,s_m10,male,anterior,0.542649227
+530,ag02,AG,s_m10,male,anterior,0.477428113
+540,ag02,AG,s_m10,male,anterior,0.06255897
+560,ag02,AG,s_m10,male,anterior,0.026915694
+580,ag02,AG,s_m10,male,anterior,0.020278867
+600,ag02,AG,s_m10,male,anterior,0.015056693
+620,ag02,AG,s_m10,male,anterior,0.015056693
+640,ag02,AG,s_m10,male,anterior,0.015056693
+660,ag02,AG,s_m10,male,anterior,0.015056693
+680,ag02,AG,s_m10,male,anterior,0.015056693
+420,ag03,AG,s_m11,male,anterior,0.016076848
+430,ag03,AG,s_m11,male,anterior,0.134507912
+440,ag03,AG,s_m11,male,anterior,0.901368227
+450,ag03,AG,s_m11,male,anterior,0.726131748
+460,ag03,AG,s_m11,male,anterior,0.607537031
+470,ag03,AG,s_m11,male,anterior,0.795970823
+480,ag03,AG,s_m11,male,anterior,0.470803572
+490,ag03,AG,s_m11,male,anterior,0.590719135
+500,ag03,AG,s_m11,male,anterior,0.966864749
+510,ag03,AG,s_m11,male,anterior,0.988940153
+520,ag03,AG,s_m11,male,anterior,1.000010483
+530,ag03,AG,s_m11,male,anterior,0.745699928
+540,ag03,AG,s_m11,male,anterior,0.566244263
+560,ag03,AG,s_m11,male,anterior,0.222227337
+580,ag03,AG,s_m11,male,anterior,0.115015723
+600,ag03,AG,s_m11,male,anterior,0.019424911
+620,ag03,AG,s_m11,male,anterior,0.006513183
+640,ag03,AG,s_m11,male,anterior,0.030218754
+660,ag03,AG,s_m11,male,anterior,0.043361556
+680,ag03,AG,s_m11,male,anterior,0.004989221
+430,ag 05,AG,s_m12,male,anterior,0.565889067
+440,ag 05,AG,s_m12,male,anterior,0.739639086
+450,ag 05,AG,s_m12,male,anterior,0.782214844
+460,ag 05,AG,s_m12,male,anterior,0.821199476
+470,ag 05,AG,s_m12,male,anterior,0.886640619
+480,ag 05,AG,s_m12,male,anterior,0.926928474
+490,ag 05,AG,s_m12,male,anterior,0.973590894
+500,ag 05,AG,s_m12,male,anterior,0.99969098
+510,ag 05,AG,s_m12,male,anterior,0.949390657
+520,ag 05,AG,s_m12,male,anterior,0.868556257
+530,ag 05,AG,s_m12,male,anterior,0.770701179
+540,ag 05,AG,s_m12,male,anterior,0.704143498
+560,ag 05,AG,s_m12,male,anterior,0.430539164
+580,ag 05,AG,s_m12,male,anterior,0.069419529
+600,ag 05,AG,s_m12,male,anterior,0.005464747
+620,ag 05,AG,s_m12,male,anterior,0.001810258
+640,ag 05,AG,s_m12,male,anterior,0.001207833
+660,ag 05,AG,s_m12,male,anterior,0.001810258
+680,ag 05,AG,s_m12,male,anterior,0.001810258
+420,ag 02,AG,s_f1,female,posterior,0.054374052
+430,ag 02,AG,s_f1,female,posterior,0.465058255
+440,ag 02,AG,s_f1,female,posterior,0.726905275
+450,ag 02,AG,s_f1,female,posterior,0.800390731
+460,ag 02,AG,s_f1,female,posterior,0.89467989
+470,ag 02,AG,s_f1,female,posterior,0.933084995
+480,ag 02,AG,s_f1,female,posterior,0.940318299
+490,ag 02,AG,s_f1,female,posterior,0.999991401
+500,ag 02,AG,s_f1,female,posterior,0.981044609
+510,ag 02,AG,s_f1,female,posterior,0.933084995
+520,ag 02,AG,s_f1,female,posterior,0.91050802
+530,ag 02,AG,s_f1,female,posterior,0.815047233
+540,ag 02,AG,s_f1,female,posterior,0.737895433
+560,ag 02,AG,s_f1,female,posterior,0.446194601
+580,ag 02,AG,s_f1,female,posterior,0.138853955
+600,ag 02,AG,s_f1,female,posterior,0.026814556
+620,ag 02,AG,s_f1,female,posterior,0.009812746
+640,ag 02,AG,s_f1,female,posterior,0.019269911
+660,ag 02,AG,s_f1,female,posterior,0.021862979
+680,ag 02,AG,s_f1,female,posterior,0.009812746
+430,ag 03,AG,s_f2,female,posterior,0.26112911
+440,ag 03,AG,s_f2,female,posterior,0.49279068
+450,ag 03,AG,s_f2,female,posterior,0.643257454
+460,ag 03,AG,s_f2,female,posterior,0.784162026
+470,ag 03,AG,s_f2,female,posterior,0.813811985
+480,ag 03,AG,s_f2,female,posterior,0.874396002
+490,ag 03,AG,s_f2,female,posterior,0.999962144
+500,ag 03,AG,s_f2,female,posterior,0.968090261
+510,ag 03,AG,s_f2,female,posterior,0.754972504
+520,ag 03,AG,s_f2,female,posterior,0.643257454
+530,ag 03,AG,s_f2,female,posterior,0.447624428
+540,ag 03,AG,s_f2,female,posterior,0.365135235
+560,ag 03,AG,s_f2,female,posterior,0.10284958
+580,ag 03,AG,s_f2,female,posterior,0.029320514
+600,ag 03,AG,s_f2,female,posterior,0.0147739
+620,ag 03,AG,s_f2,female,posterior,0.009687625
+640,ag 03,AG,s_f2,female,posterior,0.009687625
+660,ag 03,AG,s_f2,female,posterior,0.009687625
+680,ag 03,AG,s_f2,female,posterior,0.011997182
+420,ag 01,AG,s_f3,female,posterior,0.082987895
+430,ag 01,AG,s_f3,female,posterior,0.355784439
+440,ag 01,AG,s_f3,female,posterior,0.431675747
+450,ag 01,AG,s_f3,female,posterior,0.589151041
+460,ag 01,AG,s_f3,female,posterior,0.658629152
+470,ag 01,AG,s_f3,female,posterior,0.714638566
+480,ag 01,AG,s_f3,female,posterior,0.56923861
+490,ag 01,AG,s_f3,female,posterior,0.746116131
+500,ag 01,AG,s_f3,female,posterior,1.000144542
+510,ag 01,AG,s_f3,female,posterior,1.000144542
+520,ag 01,AG,s_f3,female,posterior,0.550730526
+530,ag 01,AG,s_f3,female,posterior,0.533513692
+540,ag 01,AG,s_f3,female,posterior,0.371703739
+560,ag 01,AG,s_f3,female,posterior,0.257883805
+580,ag 01,AG,s_f3,female,posterior,0.057084664
+600,ag 01,AG,s_f3,female,posterior,0.006403006
+620,ag 01,AG,s_f3,female,posterior,0.0024813
+640,ag 01,AG,s_f3,female,posterior,0.002140704
+660,ag 01,AG,s_f3,female,posterior,0.001578249
+680,ag 01,AG,s_f3,female,posterior,0.002140704
+420,ag 01,AG,s_f3,female,anterior,0.082987895
+430,ag 01,AG,s_f3,female,anterior,0.355784439
+440,ag 01,AG,s_f3,female,anterior,0.431675747
+450,ag 01,AG,s_f3,female,anterior,0.589151041
+460,ag 01,AG,s_f3,female,anterior,0.658629152
+470,ag 01,AG,s_f3,female,anterior,0.714638566
+480,ag 01,AG,s_f3,female,anterior,0.56923861
+490,ag 01,AG,s_f3,female,anterior,0.746116131
+500,ag 01,AG,s_f3,female,anterior,1.000144542
+510,ag 01,AG,s_f3,female,anterior,1.000144542
+520,ag 01,AG,s_f3,female,anterior,0.550730526
+530,ag 01,AG,s_f3,female,anterior,0.533513692
+540,ag 01,AG,s_f3,female,anterior,0.371703739
+560,ag 01,AG,s_f3,female,anterior,0.257883805
+580,ag 01,AG,s_f3,female,anterior,0.057084664
+600,ag 01,AG,s_f3,female,anterior,0.006403006
+620,ag 01,AG,s_f3,female,anterior,0.0024813
+640,ag 01,AG,s_f3,female,anterior,0.002140704
+660,ag 01,AG,s_f3,female,anterior,0.001578249
+680,ag 01,AG,s_f3,female,anterior,0.002140704
+430,ag 05,AG,s_f4,female,posterior,0.348907123
+440,ag 05,AG,s_f4,female,posterior,0.771577785
+450,ag 05,AG,s_f4,female,posterior,0.884353452
+460,ag 05,AG,s_f4,female,posterior,0.879568637
+470,ag 05,AG,s_f4,female,posterior,0.927299521
+480,ag 05,AG,s_f4,female,posterior,0.999998239
+490,ag 05,AG,s_f4,female,posterior,0.975421525
+500,ag 05,AG,s_f4,female,posterior,0.912987718
+510,ag 05,AG,s_f4,female,posterior,0.855540031
+520,ag 05,AG,s_f4,female,posterior,0.821473608
+530,ag 05,AG,s_f4,female,posterior,0.725147769
+540,ag 05,AG,s_f4,female,posterior,0.605244338
+560,ag 05,AG,s_f4,female,posterior,0.246128801
+580,ag 05,AG,s_f4,female,posterior,0.049520939
+600,ag 05,AG,s_f4,female,posterior,0.016267774
+620,ag 05,AG,s_f4,female,posterior,0.00994972
+640,ag 05,AG,s_f4,female,posterior,0.008237489
+660,ag 05,AG,s_f4,female,posterior,0.008237489
+680,ag 05,AG,s_f4,female,posterior,0.008237489
+420,ag04,AG,s_f5,female,anterior,0.2
+430,ag04,AG,s_f5,female,anterior,0.481082772
+440,ag04,AG,s_f5,female,anterior,0.827336557
+450,ag04,AG,s_f5,female,anterior,0.84652012
+460,ag04,AG,s_f5,female,anterior,0.913776647
+470,ag04,AG,s_f5,female,anterior,0.84652012
+480,ag04,AG,s_f5,female,anterior,0.889551108
+490,ag04,AG,s_f5,female,anterior,1.00000107
+500,ag04,AG,s_f5,female,anterior,0.968745136
+510,ag04,AG,s_f5,female,anterior,0.792809882
+520,ag04,AG,s_f5,female,anterior,0.710466843
+530,ag04,AG,s_f5,female,anterior,0.664913047
+540,ag04,AG,s_f5,female,anterior,0.574501828
+560,ag04,AG,s_f5,female,anterior,0.11125804
+580,ag04,AG,s_f5,female,anterior,0.020037085
+600,ag04,AG,s_f5,female,anterior,0.009888996
+620,ag04,AG,s_f5,female,anterior,0.009888996
+640,ag04,AG,s_f5,female,anterior,0.009888996
+660,ag04,AG,s_f5,female,anterior,0.009888996
+680,ag04,AG,s_f5,female,anterior,0.009888996
+430,ag 06,AG,s_f6,female,anterior,0.12047442
+440,ag 06,AG,s_f6,female,anterior,0.443805669
+450,ag 06,AG,s_f6,female,anterior,0.50020548
+460,ag 06,AG,s_f6,female,anterior,0.561519503
+470,ag 06,AG,s_f6,female,anterior,0.699963518
+480,ag 06,AG,s_f6,female,anterior,0.906017331
+490,ag 06,AG,s_f6,female,anterior,1.000002176
+500,ag 06,AG,s_f6,female,anterior,0.777709215
+510,ag 06,AG,s_f6,female,anterior,0.663283731
+520,ag 06,AG,s_f6,female,anterior,0.59409999
+530,ag 06,AG,s_f6,female,anterior,0.322761812
+540,ag 06,AG,s_f6,female,anterior,0.244652459
+560,ag 06,AG,s_f6,female,anterior,0.092363705
+580,ag 06,AG,s_f6,female,anterior,0.030082824
+600,ag 06,AG,s_f6,female,anterior,0.014617774
+620,ag 06,AG,s_f6,female,anterior,0.009866033
+640,ag 06,AG,s_f6,female,anterior,0.009866033
+660,ag 06,AG,s_f6,female,anterior,0.009866033
+680,ag 06,AG,s_f6,female,anterior,0.009866033
