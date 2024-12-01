@@ -5,8 +5,7 @@ This repository contains the code used to analyze the electrophysiological recor
 
 The analysis is summarised is several jupyter notebooks. The notebook Pd_data_summary.ipybn summarises the electrophysiology data and visualizes the V log I plots. 
 
-
-The code was written by [John Kirwan](http://jkirwan.org). The library versions we used are specified in environment.yml. To install the environment, run:
+The code was written by [John Kirwan](https://github.com/JohnKirwan). The library versions we used are specified in environment.yml. To install the environment, run:
 
 ```bash
 conda env create -f environment.yml
