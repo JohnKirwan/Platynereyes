@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sharpness-glimpse"
+version = "0.1.0"
+description = "Python port of AcuityView with ocellus resolution helpers for pinhole optics."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { file = "LICENSE" }
+authors = [
+    { name = "John Kirwan" }
+]
+dependencies = [
+    "numpy>=1.23",
+    "Pillow>=9.0",
+    "pandas>=1.4"
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent"
+]
+
+[project.optional-dependencies]
+plot = ["matplotlib>=3.5"]
+
+[tool.setuptools]
+py-modules = ["sharpness_glimpse", "pinhole_optics"]
