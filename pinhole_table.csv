@@ -1,0 +1,7 @@
+condition,combinations_evaluated,theta_total_fwhm_deg_min,theta_total_fwhm_deg_max,limiting_terms,notes
+Atoke dark-adapted,4,17.068318090391635,28.95327134413357,['geometry-limited'],
+Atoke light-adapted,4,16.22986521357912,16.22986521357912,['geometry-limited'],
+Female dark-adapted,4,4.309385149749213,7.636162324609579,['geometry-limited'],
+Female light-adapted,4,4.336263809624826,7.651363179562824,['geometry-limited'],
+Male light-adapted,4,4.436382787500127,7.550685129356859,['geometry-limited'],
+Male dark-adapted,4,4.339583794133562,7.653245206134085,['geometry-limited'],
